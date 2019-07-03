@@ -1,0 +1,5 @@
+* win10_gte1803_japanist2003
+
+  - Windows 10の[設定]-[言語]-[言語オプション]-[キーボード]からJapanist 2003の追加・削除ができないのですが… 
+
+  - https://www.fujitsu.com/jp/products/software/applications/applications/japanist/contact/
